@@ -4,7 +4,7 @@ This is as simple weather app built with Flutter and Dart, designed as a fronten
 
 ## To get started with this app
 
-Opens the project in your preferred IDE and ensure you complete the necessary setup steps like running, adding required assets or dependencies, and setting up a suitable device or emulator.
+Openss the project in your preferred IDE and ensure you complete the necessary setup steps like running, adding required assets or dependencies, and setting up a suitable device or emulator.
 
 ```bash
 flutter pub get
