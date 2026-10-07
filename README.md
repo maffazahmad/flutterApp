@@ -1,4 +1,4 @@
-saasaassaasasasassasasas# 🌦️ Weather App (Flutter Template)
+asaadsaasaassaasasasassasasas# 🌦️ Weather App (Flutter Template)
 
 This is as simple weather app built with Flutter and Dart, designed as a frontend template for self-practice purposes. The app includes three screens demonstrating navigation, UI updates, and basic screen transitions. It does not include backend or API integration, and is meant primarily for experimenting with Flutter layout and navigation.
  
